@@ -1,5 +1,6 @@
 # Jared
-
+### <img src="https://media3.giphy.com/media/13n7XeyIXEIrbG/giphy.gif" width="50"> About Me!
+### <hr>
 ```cpp
 class Jared {
 public:
@@ -17,6 +18,15 @@ public:
 };
 ```
 
-### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media0.giphy.com/media/YrD1PQldGsstG/giphy.gif?cid=ecf05e475n3z9kmhfqbcvipvi1zuinjoufikd30s1yv3qizh&rid=giphy.gif&ct=g)" width="50"> About me!
+<strong>Typically, my projects do not contain the dependencies required to utilize them or run them. Ask if ya wanna look!</strong>
+<hr>
+<h1>Currently Listening to . . .</h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jarhead92676&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=jarhead92676&redirect=true)
+
+
+
+
+<footer>
+Last edit: 2022-06-22
+</footer>
