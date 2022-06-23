@@ -1,4 +1,4 @@
-### <img src="https://media3.giphy.com/media/13n7XeyIXEIrbG/giphy.gif" width="50"> About Me!
+<h1>Hey there! Welcome to my Github, you can take a look below to see what I'm listening to, and learn more about me</h1>
 ### <hr>
 ```cpp
 class Jared {
