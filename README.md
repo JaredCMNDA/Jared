@@ -1,4 +1,3 @@
-# Jared
 ### <img src="https://media3.giphy.com/media/13n7XeyIXEIrbG/giphy.gif" width="50"> About Me!
 ### <hr>
 ```cpp
