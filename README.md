@@ -5,13 +5,13 @@ class Jared {
 public:
 	std::string pronouns = "he/him";
 
-	const char* languages[5] = { "C++" , "NodeJS" , "Python" , "HTML" , "CSS" };
+	const char* languages[5] = { "C++" , "NodeJS" , "Python (old)" , "HTML" , "CSS" };
 
 	const char* myTools[2] = { "Visual Studio" , "MinGW" };
 
 	const std::string nationality = "Canadian";
 
-	std::string currentlyLearning = "MongoDB & Data Storage Techniques";
+	std::string currentlyLearning = "MongoDB & Data Storage Techniques, SQL";
 	
 	std::string nextGoal = "Create a jet engine with an Arduino!";
 };
