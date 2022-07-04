@@ -14,6 +14,8 @@ public:
 	std::string currentlyLearning = "MongoDB & Data Storage Techniques, SQL";
 	
 	std::string nextGoal = "Create a jet engine with an Arduino!";
+	
+	const char* favouriteMusicStyle[2] = { "Indie Pop" , "Old Hip-Hop/Rap" };
 };
 ```
 
@@ -27,5 +29,5 @@ public:
 
 
 <footer>
-Last edit: 2022-06-23
+Last edit: 2022-07-04
 </footer>
