@@ -7,13 +7,13 @@ public:
 
 	const char* languages[5] = { "C++" , "NodeJS" , "Python (old)" , "HTML" , "CSS" };
 
-	const char* myTools[2] = { "Visual Studio" , "MinGW" };
+	const char* myTools[3] = { "Jetbrain Products :D" , "MinGW", "QT"};
 
 	const std::string nationality = "Canadian";
 
-	std::string currentlyLearning = "MongoDB & Data Storage Techniques, SQL";
+	std::string currentlyLearning = "QT";
 	
-	std::string nextGoal = "Create a jet engine with an Arduino!";
+	std::string nextGoal = "Use an artificial intelligence platform in combination with robotics to create something like Jarvis";
 	
 	const char* favouriteMusicStyle[2] = { "Indie Pop" , "Old Hip-Hop/Rap" };
 };
